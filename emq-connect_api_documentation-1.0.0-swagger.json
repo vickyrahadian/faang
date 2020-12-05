@@ -1,7 +1,7 @@
 {
   "openapi" : "3.0.0",
   "servers" : [ {
-    "url" : "http://prod-v2-core-generic.prod-v2.emq.internal:80/v1"
+    "url" : "http://192.168.65.151:18080/v1/"
   } ],
   "info" : {
     "title" : "EMQ Connect API documentation",
